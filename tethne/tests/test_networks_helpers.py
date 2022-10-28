@@ -13,7 +13,7 @@ from collections import Counter
 
 
 
-class MyTestCase(unittest.TestCase):
+class TestMultigraphSimlify(unittest.TestCase):
 
 
     def test_simplify_multigraph(self):
